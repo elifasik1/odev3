@@ -1,0 +1,130 @@
+
+.body{
+    color: black;
+    font-size: 14px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 400px;
+    padding: auto;
+
+
+}
+.items{
+    padding: 6px;
+    background-color: white;
+    flex-grow: 1;
+    align-items: center;
+    display: inline-block;
+    display: flex;
+    width:390px ;
+    height: 174px;
+   
+}
+.uyg{
+    margin-right: 10px; 
+     margin-left: 10px;
+    float: left;
+    
+
+
+}
+.mesafe{
+    margin-left: 1550px;
+}
+.ort{
+    text-align: center;  
+   
+    padding: 250px 0 0;
+    margin-bottom: 20px;
+   border-radius: 100px;
+   
+  
+
+}
+.ara{
+    text-align: center;
+    
+   display: flex;
+   justify-content: center;
+   width: 100%;
+   border-radius: 15px;
+  
+   
+}
+.ara-1{
+    text-align: center;
+   margin-bottom: 335px;
+    
+}
+.font{
+    margin-left: 500px;
+    margin-right: 400px;
+    float: left;
+}
+.art{
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+a{
+    color: black;
+}
+a:active{
+    color: black;
+}
+.clr{
+    background-color:rgb(238, 238, 238);
+    
+    
+}
+.pdg{
+    padding: 20px 30px;
+    border-bottom: 1px;
+    font-size: 15px;
+}
+.gg{
+    margin-right: 10px;
+    font-size: 14px;
+    color: black;
+    background-color: rgb(238, 238, 238);
+    padding: 14px;
+    border: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+.by{
+    margin: 0;
+    padding: 0;
+    color:rgba(0, 0, 0, 0.87) ;
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    appearance: textfield;
+    cursor: text;
+
+
+}
+.rn{
+    font-size: 14px;
+    color: white;
+    background-color: rgb(37, 37, 228);
+    border: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
+   
+    
+}
+
+
